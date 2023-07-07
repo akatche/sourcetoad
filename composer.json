@@ -1,0 +1,17 @@
+{
+  "name": "vendor_name/sourcetoad",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "akatche",
+      "email": "akatcheroff@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Sourcetoad\\":"app/Sourcetoad"
+    }
+  }
+}
